@@ -10,6 +10,7 @@ public class Pract1
 	
 	public void display2()
 	{
+		System.out.println("This is the latest code");
 		System.out.println("Automation is very easy");
 	}
 	
