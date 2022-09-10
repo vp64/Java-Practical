@@ -6,7 +6,7 @@ public class Child extends Inheritance1
   {
 	  System.out.println("Child Class");
   }
-  
+     
   public static void main(String[] args) 
   {
 	Child ob1=new Child();
